@@ -1,0 +1,126 @@
+body{
+    line-height: 1.5em;
+    color: #555555;
+}
+h1,
+h2{
+    font-weight: bold;
+    color: #333333;
+}
+h3{
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+p{
+    font-size: 16px;
+    font-weight: 500;
+}
+hr{
+    width: 75%;
+    border-color: #65a5da;
+    display: block;
+    height: 1px;
+}
+.jumbotron{
+    background: #1a72b9;
+    color: white;
+    text-align: center;
+    height: 250px;
+    padding-top: 30px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: transparent;
+    border-color: white;
+    border-radius: 10px;
+    border-width: 2px;
+    margin-bottom: 5px;
+    font-size: 30px;
+}
+.btn-primary:hover{
+    color: #1a72b9;
+    background-color: white;
+    border-color: white;
+}
+.contact-btn{
+    color: #1a72b9;
+    background-color: transparent;
+    border-color: #1a72b9;
+}
+.contact-btn:hover{
+    background-color: #1a72b9;
+    color: white;
+}
+.navbar{
+    margin-bottom: 0;
+    background-color: #fff;
+    padding-bottom: 20px;
+}
+.navbar-nav li{
+    margin-left: 10px;
+}
+.navbar-nav li a{
+    font-size: 20px;
+    color: #1a72b9;
+    border: 2px solid #1a72b9;
+    border-radius: 10px;
+    line-height: 12px;
+}
+.navbar-nav li a:hover{
+    background-color: #1a72b9;
+    color: #fff;
+}
+.navbar-brand{
+    padding-top: 11px;
+}
+.col-md-4{
+    text-align: center;
+    align-items: center;
+}
+.frontp{
+    text-align: justify;
+}
+#frontimage1, #frontimage2{
+    border: 2px solid #1a72b9;
+    border-radius: 10px;
+}
+#eventsimage, #eventsimage2{
+    border: 2px solid #1a72b9;
+    border-radius: 10px;
+    margin-left: 100px;
+    padding-left: 0px;
+}
+#contactimage1, #contactimage2, #contactimage3{
+    border: 2px solid #1a72b9;
+    border-radius: 10px;
+}
+#frontbutton{
+    color: #fff;
+    background-color: #1a72b9;
+    border-color: #1a72b9;
+    border-radius: 10px;
+    border-width: 2px;
+    font-size: 25px;
+    margin-top: 10px;
+}
+#frontbutton:hover{
+    color: #1a72b9;
+    background-color: #fff;
+}
+a:hover{
+    text-decoration: none;
+}
+.people a:hover{
+    opacity: 0.5;
+}
+#contact-social{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    height: 290px;
+}
+#contact-social a:hover{
+    opacity: 0.5;
+}
